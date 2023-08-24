@@ -1,3 +1,3 @@
 # personal-portfolio-website
 
-Website Link : https://sayandeep-portfolio.netlify.app/
+Website Link : https://sayandeep-portfolio-website.netlify.app/
